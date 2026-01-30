@@ -1,0 +1,7 @@
+{
+  "name": "TerraNexus Earth Intelligence",
+  "description": "A high-fidelity Earth observation platform unifying multi-satellite data streams (Sentinel, Landsat, ISRO) into an AI-driven planetary intelligence dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
